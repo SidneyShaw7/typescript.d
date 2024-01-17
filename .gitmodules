@@ -1,0 +1,9 @@
+[submodule "diaries-backend"]
+	path = diaries-backend
+	url = https://github.com/SidneyShaw7/flight-diaries-backend.git
+[submodule "diaries-frontend"]
+	path = diaries-frontend
+	url = https://github.com/SidneyShaw7/flight-diaries-frontend.git
+[submodule "half-stack-app-dev"]
+	path = half-stack-app-dev
+	url = https://github.com/SidneyShaw7/9.14-9.15half-stack-app-dev.git
